@@ -4,6 +4,8 @@
 
 The game board consists of sixteen cards arranged randomly in a grid. The deck is made up of eight different pairs of cards, each with different symbols on one side. Initially, the symbol is hidden. At each move, the player flips two hidden cards at a time to locate the ones that match.
 
+See the live project here https://nitish03.github.io/Memory-Game/
+
 ## How to play the game
 
 1. Download or Clone the repository.
